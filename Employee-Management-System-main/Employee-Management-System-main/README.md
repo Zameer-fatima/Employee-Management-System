@@ -6,9 +6,8 @@ After that type `npm install` and `npm run dev` this will start your dev server.
 
 The client folder contains the React app. Tpe `npm install` to install the dependencies and then type `npm start` to start the frontend.
 
-### Feel free to contribut to this repo by adding some more features.
 
-Follow: @frontend_edy on instagram for more amazing 🤪 project like this one.
+
 
 
 ScreenShot 1
